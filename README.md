@@ -13,7 +13,7 @@ This tribute page includes a brief biography of Steve Jobs along with a memorabl
 
 ## Preview 📷
 
-![Steve Jobs Tribute Page Preview](screenshot.png)
+![Steve Jobs Tribute Page Preview](./record.gif)
 
 ## Setup Instructions 🛠️
 
